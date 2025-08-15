@@ -30,7 +30,8 @@
         "westus",
         "westus3",
         "westeurope",
-        "southeastasia"
+        "southeastasia",
+        "centraluseuap"
       ],
       "metadata": {
         "description": "The Azure region where your AI Foundry resource and project will be created."
