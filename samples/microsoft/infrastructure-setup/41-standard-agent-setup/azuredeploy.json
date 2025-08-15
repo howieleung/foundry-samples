@@ -11,26 +11,8 @@
   "parameters": {
     "location": {
       "type": "string",
-      "defaultValue": "eastus",
+      "defaultValue": "centraluseuap",
       "allowedValues": [
-        "australiaeast",
-        "canadaeast",
-        "eastus",
-        "eastus2",
-        "francecentral",
-        "japaneast",
-        "koreacentral",
-        "norwayeast",
-        "polandcentral",
-        "southindia",
-        "swedencentral",
-        "switzerlandnorth",
-        "uaenorth",
-        "uksouth",
-        "westus",
-        "westus3",
-        "westeurope",
-        "southeastasia",
         "centraluseuap"
       ],
       "metadata": {
